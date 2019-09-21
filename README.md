@@ -1,2 +1,2 @@
-# Spring_WebMvc_Gradle_BasicSetup
-Spring Web MVC + Gradle Build project setup
+# SpringBoot_WebMvc_BasicSetup
+Spring Boot Web MVC + Maven Build project setup
